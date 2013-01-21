@@ -1,0 +1,14 @@
+LESS THAN 5
+GREATER THAN 5
+ODD
+3
+2
+10
+1
+7
+EVEN
+6
+5
+4
+9
+8
